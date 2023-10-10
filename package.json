@@ -48,7 +48,7 @@
   },
   "homepage": "https://github.com/ng-bootstrap/ng-bootstrap#readme",
   "dependencies": {
-    "@angular/core": "4.0.3",
+    "@angular/core": "10.2.5",
     "@angular/common": "4.0.3",
     "@angular/forms": "4.0.3"
   },
